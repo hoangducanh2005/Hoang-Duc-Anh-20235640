@@ -1,4 +1,4 @@
-package FirstTest;
+package FirstTestSorting;
 
 import java.util.Arrays;
 import java.util.Scanner;
