@@ -1,4 +1,4 @@
-package FirstTest;
+package FirstTestTri;
 
 import java.util.Scanner;
 
